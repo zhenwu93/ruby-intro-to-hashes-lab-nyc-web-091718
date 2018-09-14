@@ -41,6 +41,6 @@ def monopoly_with_fourth_tier
       :two_pieces_owned => 50
       }
     }
-  }here!
+  }
 
 end
